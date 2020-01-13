@@ -1,5 +1,5 @@
 /*************************************************************************************************************************************************************************************************
-Filename:							GraphicElement.cpp
+Filename:							GraphicElement.cp
 Version:							1
 Author/Student Name:				Alexandre Dagher
 Student Number:						040868750
