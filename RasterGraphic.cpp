@@ -7,7 +7,7 @@ Course Name and Number:				C++ CST8219 300
 Lab Section:						301
 Assignemnt Number:					Assignment 2
 Assignment Name:					RasterGraphic in C++ using Container Classes and Overloaded Operators
-Due Date:							November 10th @ 11:59pm
+Due Date:							November 10th @ 11:59
 Submission Date:					November 10th
 Professors Name:					Andrew Tyler
 List of source files:				GraphicElement.cpp RasterGraphic.cpp Image.cpp
